@@ -1,4 +1,6 @@
+<!--
 ### Hi there 👋
+-->
 
 <img align="left" alt="scheric's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scheric&show_icons=true&hide_border=true" />
 
