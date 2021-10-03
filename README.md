@@ -10,8 +10,10 @@
   <img align="left" with="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheric&hide_border=true" />
 </a>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+---
 
 <a href="../../../../topics/jupyter-notebook"><img border="0" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="43px"></a>
 <a href="../../../../topics/json"><img border="0" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="43px"></a>
